@@ -6,3 +6,6 @@ Choose the most recent release and download the zip file. Afterwards extract it'
 
 ### Heads up
 Whenever you quit roblox completely you will have to quit the program and start it up again, small bug. ALSO the program is made to work with 3440x1440 screen resolution. I have no idea if it works on other screens.
+
+### Up and coming
+If it does not detect that you are on a road it will read the map and show which postal you are at
